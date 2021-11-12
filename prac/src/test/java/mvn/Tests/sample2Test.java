@@ -13,5 +13,6 @@ public class sample2Test {
 			System.out.println("Smoke");
 			
 			System.out.println("***********poll scm*********");
+			System.out.println("************close****");
 		}
 		}
