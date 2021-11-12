@@ -11,5 +11,7 @@ public class sample2Test {
 			//System.out.println("test with suit file");
 			//use the profiling
 			System.out.println("Smoke");
+			
+			System.out.println("***********poll scm*********");
 		}
 		}
